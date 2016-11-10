@@ -1,0 +1,16 @@
+test.egg-info/*
+*.pyc
+*/*.pyc
+*/*/*.pyc
+build/*
+monitor.egg-info/*
+dist/*
+monitor/samples/faza2/.testy
+*.swp
+*/*.swp
+*/*/*.swp
+*/*/*/*.swp*.swp
+*/*.swp
+*/*/*.swp
+*/*/*/*.swp*.swp
+
